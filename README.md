@@ -2,7 +2,7 @@
 
 #### Index 
 
-![index](https://github.com/adity672roy/Zomato_Dashboard_PowerBI/blob/main/city_dashboard.png)
+![index](https://github.com/adity672roy/Zomato_Dashboard_PowerBI/blob/main/index.png)
 
 #### Overview Dashboard
 
